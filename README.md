@@ -39,7 +39,7 @@ The Keeper App is a dynamic, user-friendly web application developed using React
 </li>
 </ul>
 
-<p>outcomes:
+<p>outcomes: <br>
 The Keeper App serves as a practical tool for personal note management, demonstrating proficiency in React development and front-end design. It highlights skills in creating dynamic web applications with user-friendly interfaces and responsive designs.
 
 </p>
